@@ -94,11 +94,16 @@ ul li {
 
 /* values */
 
+.values-title {
+    letter-spacing: 0.02em;
+}
+
 .values-name {
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 /* our team */
@@ -114,6 +119,7 @@ ul li {
     font-weight: 700;
     line-height: 1.11;
     text-transform: capitalize;
+    letter-spacing: 0.02em;
 }
 
 .team-card {
@@ -125,7 +131,7 @@ ul li {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.02em;
 }
 
 /* our portfolio */
@@ -141,6 +147,7 @@ ul li {
     line-height: 1.11;
     text-transform: capitalize;
     text-align: center;
+    letter-spacing: 0.02em;
 }
 
 .portfolio-card {
@@ -152,7 +159,7 @@ ul li {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.02em;
 }
 
 /* footer */
